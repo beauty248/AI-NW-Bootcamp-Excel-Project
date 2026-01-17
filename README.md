@@ -17,9 +17,10 @@ The key objectives of this project were to:
 ##  Tools Used  
 - **Microsoft Excel** – Data cleaning, analysis, pivot tables, and dashboard creation  
 
-##  Dataset  
-The dataset used in this project is included in the `data/` folder:  
-👉 *AI Now Boot Camp Project On Excel, well arranged file.xlsx*  
+  ## 📂 Dataset  
+The dataset used in this project is included in the data folder:  
+👉 https://github.com/beauty248/AI-NW-Bootcamp-Excel-Project/blob/main/data/AI%20Now%20Boot%20Camp%20Project%20On%20Excel,%20well%20arranged%20file.xlsx
+
 
 ##  What I Did in This Project  
 - Cleaned and structured the dataset  
@@ -41,6 +42,6 @@ Through this project, I strengthened my skills in:
 - Data-driven decision making  
 
 ## 👩 About Me  
-I am an aspiring Data Analyst currently undergoing training through the **AI Nw Boot Camp**. This project is part of my learning journey in data analytics using Excel.
+I am an aspiring Data Analyst currently undergoing training through the **AI NOW Boot Camp**. This project is part of my learning journey in data analytics using Excel.
 
 
